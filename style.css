@@ -1,7 +1,7 @@
 /* Reset */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
-/* ================= NAVBAR ================= */
+/* NAVBAR */
 .navbar {
   background: #222;
   padding: 15px 0;
@@ -1535,6 +1535,7 @@
     margin-bottom: 10px;
   }
 }
+
 
 
 
